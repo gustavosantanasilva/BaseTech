@@ -114,7 +114,7 @@ Era cara, difícil de produzir e só a nobreza podia comprar.
 
 ### 2.2 O Tear Programável (1801) 🧵
 
-![Tear de Jacquard](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jacquard.loom.jpg/600px-Jacquard.loom.jpg)
+![Tear de Jacquard](https://upload.wikimedia.org/wikipedia/commons/0/09/Jacquard.loom.cards.jpg)
 
 **Inventor:** Joseph Marie Jacquard (franês)
 
