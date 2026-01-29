@@ -41,7 +41,7 @@ Se você está começando do zero, siga a trilha abaixo.
 ## 📚 Conteúdos por Categoria
 
 ### 💻 Fundamentos
-- [Informática Básica](./01-fundamentos/iniciante/informatica-basica.md)
+- [Informática Básica](./01-fundamentos/iniciante/)
 - [Arquitetura de Computadores](./01-fundamentos/iniciante/arquitetura-de-computadores.md)
 - [Conceitos Gerais](./01-fundamentos/)
 
