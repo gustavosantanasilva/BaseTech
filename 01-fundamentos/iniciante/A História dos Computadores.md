@@ -4,7 +4,7 @@
 
 > "Para entender para onde vamos, precisamos saber de onde viemos."
 
-![Linha do Tempo dos Computadores](https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=1200&auto=format&fit=crop&q=60)
+![Linha do Tempo dos Computadores](https://media.istockphoto.com/id/1329466023/pt/foto/vintage-personal-computer-on-a-desktop.jpg?s=1024x1024&w=is&k=20&c=ld2ICnLtqnnm5fPsAi-bW_0iAY6_yQWXUbgPRmLTgJA=)
 
 Você já parou para pensar que o smartphone no seu bolso é **milhões de vezes** mais poderoso que os computadores que levaram o homem à Lua? 
 
@@ -51,7 +51,7 @@ timeline
 
 ### 1.1 O Ábaco (~3000 A.C.) 🧮
 
-![Ábaco antigo](https://images.unsplash.com/photo-1581094794329-c8112a89af12?w-600&auto=format&fit=crop)
+![Ábaco antigo](https://media.istockphoto.com/id/879836998/pt/foto/abacus-for-counting-practice-on-gray-background.webp?s=1024x1024&w=is&k=20&c=e9WUnNZ6ZBh1BjnYN8SZ1subofmPWZX07kGQi6ATLas=)
 
 **O que era:**  
 O primeiro dispositivo de cálculo da humanidade, inventado na Mesopotâmia.
@@ -164,7 +164,7 @@ A máquina NUNCA foi construída por falta de tecnologia e financiamento. Ficou 
 
 ### 3.1 O Mark I (1944) ⚙️➕⚡
 
-![Harvard Mark I](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Harvard_Mark_I_-_Right_Segment.jpg/600px-Harvard_Mark_I_-_Right_Segment.jpg)
+![Harvard Mark I](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Harvard_Mark_I_Computer_-_Input-Output_Details.jpg/960px-Harvard_Mark_I_Computer_-_Input-Output_Details.jpg)
 
 **Criador:** Howard Aiken (EUA) com apoio da IBM
 
@@ -185,7 +185,7 @@ Ainda era **mecânico** - partes se desgastavam, fazia barulho enorme e era prop
 
 ### 3.2 O Z3 (1941) 🇩🇪
 
-![Computador Z3](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zuse_Z3-1.jpg/600px-Zuse_Z3-1.jpg)
+![Computador Z3](https://preview.redd.it/kvctv4uqvrx21.jpg?width=1080&crop=smart&auto=webp&s=656aab5e5ec5decce517b9ef248824764cd4e53c)
 
 **Criador:** Konrad Zuse (alemão)
 
@@ -207,7 +207,7 @@ Foi destruído em um bombardeio aliado em 1944. Zuse sobreviveu e reconstruiu o 
 
 ### 4.1 O Colossus (1943) 🇬🇧🕵️
 
-![Colossus Computer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Colossus.jpg/600px-Colossus.jpg)
+![Colossus Computer](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wartime_photo_of_Colossus_10.png/500px-Wartime_photo_of_Colossus_10.png)
 
 **Segredo máximo:**  
 Foi mantido em segredo por **30 ANOS** após a guerra!
@@ -242,7 +242,7 @@ Cálculos de trajetória de mísseis balísticos.
 3. Demorava **DIAS** para reprogramar
 
 **Mulheres do ENIAC:**  
-![Programadoras do ENIAC](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Eniac.jpg/600px-Eniac.jpg)
+![Programadoras do ENIAC](https://www.itegra.com.br/wp-content/uploads/2020/02/prograeni2.jpg)
 
 Seis mulheres brilhantes (Kay McNulty, Betty Jennings, Betty Snyder, Marlyn Wescoff, Fran Bilas e Ruth Lichterman) foram as **primeiras programadoras** do ENIAC, mas seu trabalho foi pouco reconhecido na época.
 
@@ -252,7 +252,7 @@ Seis mulheres brilhantes (Kay McNulty, Betty Jennings, Betty Snyder, Marlyn Wesc
 
 ### 5.1 A Revolução do Transistor (1947) ⚡
 
-![Primeiro Transistor](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Replica-of-first-transistor.jpg/600px-Replica-of-first-transistor.jpg)
+![Primeiro Transistor](https://www.nokia.com/sites/default/files/styles/inline_image_desktop/public/inline-images/transistor-75th-big-bang-of-electronics-1920x1080.jpg.webp)
 
 **Inventores:** John Bardeen, Walter Brattain e William Shockley (Bell Labs)
 
@@ -273,7 +273,7 @@ Um interruptor eletrônico microscópico que pode estar LIGADO (1) ou DESLIGADO 
 
 ### 5.2 IBM 1401 (1959) 💼
 
-![IBM 1401 em uso](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/IBM_1401_system_at_ICCE_2009.JPG/600px-IBM_1401_system_at_ICCE_2009.JPG)
+![IBM 1401 em uso](https://t.ctcdn.com.br/VAgyl-W7nEePilFt8JqGuSJM49o=/660x0/smart/i389745.jpeg)
 
 **Impacto comercial:**  
 Primeiro computador produzido em massa (vendeu 12.000 unidades!).
@@ -523,19 +523,20 @@ AlexNet (2012) vence competição de reconhecimento de imagens com grande vantag
 
 ## 🎬 Vídeo Recomendado
 
-**Canal:** **Curso em Vídeo**  
-**Título:** "História da Computação - Do Ábaco ao Smartphone"
+**Canal:** **infinitamente**  
+**Título:** "Como Reinventar o Computador do Zero"
 
-🔗 [https://www.youtube.com/watch?v=EdLsZ5OZtCw](https://www.youtube.com/watch?v=EdLsZ5OZtCw)
+#### Confie em mim, esse vídeo é muito bom e principalmente didático.
 
-[![História da Computação - Curso em Vídeo](https://img.youtube.com/vi/EdLsZ5OZtCw/maxresdefault.jpg)](https://www.youtube.com/watch?v=EdLsZ5OZtCw)
+🔗 [Veja Aqui!](https://youtu.be/BbnDmeNojFA?si=475G5X82gAiRmyAo)
+
+![https://youtu.be/BbnDmeNojFA?si=475G5X82gAiRmyAo](https://img.youtube.com/vi/BbnDmeNojFA/maxresdefault.jpg)
 
 **Por que recomendar este vídeo:**
 - Produção profissional brasileira
 - Didático e bem humorado
-- 25 minutos de conteúdo denso mas acessível
 - Cobre desde o ábaco até smartphones
-- Apresentado por Gustavo Guanabara (referência em ensino de TI)
+- Apresentado pelo canal (infinitamente)
 
 ---
 
@@ -609,9 +610,9 @@ Entender a história dos computadores nos ajuda a:
 
 > **Pense nisso:** Da próxima vez que usar seu smartphone, lembre-se que você carrega no bolso o resultado acumulado de **5.000 anos** de inovação humana, trabalho árduo e genialidade coletiva.
 
-A jornada continua... e **VOCÊ** faz parte da próxima página dessa história! 🚀
+
 
 ---
 
 *Documento educativo criado para fins de aprendizagem • Compartilhe o conhecimento!*  
-*Última atualização: 2026 • Imagens: Wikimedia Commons, Unsplash*
+*Última atualização: 2026 • Imagens: Wikimedia Commons, istockphoto.com, Pixels*
