@@ -263,7 +263,7 @@ Um interruptor eletrônico microscópico que pode estar LIGADO (1) ou DESLIGADO 
 - 100x menor
 - Mais confiável (não queimava)
 - Consumia menos energia
-- Mais barato de produzir
+
 
 **Analogia:**  
 > Se uma válvula era uma lâmpada incandescente (grande, quente, frágil),  
@@ -281,7 +281,7 @@ Primeiro computador produzido em massa (vendeu 12.000 unidades!).
 **Características:**
 - Usava transistores (ainda em módulos separados)
 - Armazenamento em fita magnética
-- Aluguel: US$ 2.500/mês (US$ 25.000 hoje!)
+
 
 **Uso típico:**  
 Folhas de pagamento, contabilidade, processamento de dados empresariais.
@@ -309,7 +309,7 @@ Folhas de pagamento, contabilidade, processamento de dados empresariais.
 
 ### 6.2 IBM System/360 (1964) 🏢
 
-![IBM System/360](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IBM_System360_Model_30.jpg/600px-IBM_System360_Model_30.jpg)
+![IBM System/360](https://upload.wikimedia.org/wikipedia/commons/9/9e/360-91-panel.jpg)
 
 **Revolução empresarial:**  
 Primeira família de computadores compatíveis.
@@ -320,7 +320,7 @@ Um programa escrito para um modelo pequeno rodava num modelo grande sem modifica
 **Impacto:**  
 - Dominou o mercado empresarial por 20 anos
 - Introduziu conceitos usados até hoje
-- Custo: US$ 2.5 milhões (equivalente a US$ 20 milhões hoje)
+
 
 ---
 
@@ -328,7 +328,7 @@ Um programa escrito para um modelo pequeno rodava num modelo grande sem modifica
 
 ### 7.1 O Microprocessador (1971) 🎯
 
-![Intel 4004 - Primeiro Microprocessador](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Intel_C4004.jpg/600px-Intel_C4004.jpg)
+![Intel 4004 - Primeiro Microprocessador](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Intel_C4004.jpg/1280px-Intel_C4004.jpg)
 
 **Criador:** Intel (Marcian Hoff, Federico Faggin, Stan Mazor)
 
@@ -336,14 +336,14 @@ Um programa escrito para um modelo pequeno rodava num modelo grande sem modifica
 - 2.300 transistores
 - 740 kHz de clock
 - 4 bits (processava 4 bits por vez)
-- Custo: US$ 60
+
 
 **Aplicação inicial:**  
 Calculadora Busicom 141-PF (ninguém imaginava PCs na época!)
 
 ### 7.2 Altair 8800 (1975) 💡
 
-![Altair 8800 - Primeiro PC](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Altair_8800_at_the_Computer_History_Museum.jpg/600px-Altair_8800_at_the_Computer_History_Museum.jpg)
+![Altair 8800 - Primeiro PC](https://upload.wikimedia.org/wikipedia/commons/d/d1/Altair_8800b_Computer.jpg)
 
 **Preço revolucionário:**  
 US$ 439 (kit) vs. milhares de dólares dos mainframes.
@@ -359,7 +359,7 @@ Bill Gates e Paul Allen criaram o Altair BASIC, fundando a Microsoft.
 
 ### 7.3 Apple II (1977) 🍎
 
-![Apple II revolucionário](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_II_transparent.png/600px-Apple_II_transparent.png)
+![Apple II revolucionário](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Apple_II-IMG_7064.jpg/1280px-Apple_II-IMG_7064.jpg)
 
 **Inovações:**
 - Primeiro computador com gráficos coloridos
@@ -367,11 +367,11 @@ Bill Gates e Paul Allen criaram o Altair BASIC, fundando a Microsoft.
 - Design "amigável" para consumidores
 - Sucesso em escolas e casas
 
-**Preço:** US$ 1.298 (com 4KB RAM) ≈ US$ 6.000 hoje
+
 
 ### 7.4 IBM PC (1981) 💼
 
-![IBM PC 5150](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/IBM_PC_5150.jpg/600px-IBM_PC_5150.jpg)
+![IBM PC 5150](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/1280px-IBM_PC-IMG_7271_%28transparent%29.png)
 
 **Decisão crucial:**  
 IBM usou componentes de terceiros e publicou as especificações.
@@ -383,14 +383,14 @@ Surgimento dos "clones" - qualquer um podia fazer um PC compatível.
 - Processador: Intel 8088 (4.77 MHz)
 - RAM: 16KB a 256KB
 - Sistema operacional: PC-DOS (Microsoft)
-- Preço: US$ 1.565
+
 
 **Impacto:**  
 Estabeleceu o padrão que dominaria por décadas.
 
 ### 7.5 Macintosh (1984) 🖱️
 
-![Primeiro Macintosh](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Macintosh_128k_transparency.png/600px-Macintosh_128k_transparency.png)
+![Primeiro Macintosh](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg/960px-Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg)
 
 **Revolução da interface:**
 - Primeiro computador comercial com mouse
@@ -404,36 +404,14 @@ Durante o Super Bowl, direção de Ridley Scott, custo de US$ 900.000.
 - CPU: Motorola 68000 (8 MHz)
 - RAM: 128KB (sim, kilobytes!)
 - Tela: 9" preto e branco
-- Preço: US$ 2.495
+
 
 ---
 
-## 🌐 Parte 8: A Era da Internet e Mobilidade (1990 - 2020)
 
-### 8.1 World Wide Web (1991) 🕸️
+### 8 Smartphones (2007) 📱
 
-![Primeiro navegador web](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/First_Web_Server.jpg/600px-First_Web_Server.jpg)
-
-**Criador:** Tim Berners-Lee (CERN)
-
-**Objetivo inicial:**  
-Compartilhar documentos científicos entre pesquisadores.
-
-**Primeiro website:**  
-info.cern.ch (ainda online em sua forma original)
-
-**Componentes inventados:**
-1. HTML (linguagem de marcação)
-2. HTTP (protocolo de transferência)
-3. URL (endereçamento)
-4. Primeiro navegador/web editor
-
-**Filosofia:**  
-Tim Berners-Lee NÃO patentou a web, permitindo sua expansão livre.
-
-### 8.2 Smartphones (2007) 📱
-
-![iPhone original revolucionário](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IPhone_1st_Gen.svg/600px-IPhone_1st_Gen.svg.png)
+![iPhone original revolucionário](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Samsung_Galaxy_S6_edge_%2817448278539%29.jpg/1280px-Samsung_Galaxy_S6_edge_%2817448278539%29.jpg)
 
 **Antes do iPhone:**
 - Telefones com teclado físico
@@ -449,9 +427,9 @@ Tim Berners-Lee NÃO patentou a web, permitindo sua expansão livre.
 **Impacto:**  
 Transformou telefones em computadores de bolso.
 
-### 8.3 Tablets (2010) 📟
+### 8.2 Tablets (2010) 📟
 
-![iPad primeiro modelo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/IPad_1st_generation.png/600px-IPad_1st_generation.png)
+![iPad primeiro modelo](https://www.publicdomainpictures.net/pictures/40000/velka/tablet-on-white-background.jpg)
 
 **Tentativas anteriores:**  
 Tablets existiam desde os anos 90, mas eram caros e pouco práticos.
@@ -460,7 +438,6 @@ Tablets existiam desde os anos 90, mas eram caros e pouco práticos.
 - Interface otimizada para toque
 - Bateria de 10 horas
 - Milhares de apps desde o início
-- Preço acessível: US$ 499
 
 **Impacto:**  
 Criou uma nova categoria entre smartphones e laptops.
