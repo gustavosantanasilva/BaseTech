@@ -69,7 +69,7 @@ Alguns comerciantes ainda usam ábaco hoje porque, nas mãos de um expert, pode 
 
 ### 1.2 Ossos de Napier (1617) 🦴
 
-![Ossos de Napier](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Napier%27s_bones_calculating_device_%281917%29_-_TIMEA.jpg/600px-Napier%27s_bones_calculating_device_%281917%29_-_TIMEA.jpg)
+![Ossos de Napier](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Napier%27s_calculating_tables.JPG/1280px-Napier%27s_calculating_tables.JPG)
 
 **Inventor:** John Napier (escocês)
 
@@ -94,7 +94,7 @@ Primeira tentativa de "mecanizar" a matemática.
 
 ### 2.1 A Pascalina (1642) 🎰
 
-![Pascalina original](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arts_et_Metiers_Pascaline_dsc03869.jpg/600px-Arts_et_Metiers_Pascaline_dsc03869.jpg)
+![Pascalina original](https://upload.wikimedia.org/wikipedia/commons/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg)
 
 **Inventor:** Blaise Pascal (francês, 19 anos!)
 
@@ -292,7 +292,7 @@ Folhas de pagamento, contabilidade, processamento de dados empresariais.
 
 ### 6.1 O Chip (1958) 🔬
 
-![Primeiro circuito integrado](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kilby%27s_original_integrated_circuit.jpg/600px-Kilby%27s_original_integrated_circuit.jpg)
+![Primeiro circuito integrado](https://www.blogs.unicamp.br/100nexos/wp-content/uploads/sites/219/2011/08/Kilby_solid_circuitd_06f49e6a-4e0a-4dfe-b819-85c6535c9abf1.jpg)
 
 **Inventor:** Jack Kilby (Texas Instruments) - Nobel de Física 2000
 
@@ -444,45 +444,7 @@ Criou uma nova categoria entre smartphones e laptops.
 
 ---
 
-## 🤖 Parte 9: A Quinta Geração - IA e Computação Quântica (2020 - Futuro)
 
-### 9.1 Inteligência Artificial (2012 - presente) 🧠
-
-![Rede neural artificial](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&auto=format&fit=crop)
-
-**Ponto de virada:**  
-AlexNet (2012) vence competição de reconhecimento de imagens com grande vantagem.
-
-**Revolução atual:**
-- GPT-4, Claude, Gemini
-- Geração de texto, código, imagens, vídeo
-- Aprendizado profundo (deep learning)
-- Aplicações em todas as áreas
-
-**Hardware especializado:**
-- GPUs (NVIDIA)
-- TPUs (Google)
-- Processadores neuromórficos
-
-### 9.2 Computação Quântica (em desenvolvimento) ⚛️
-
-![Computador quântico IBM](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&auto=format&fit=crop)
-
-**Diferença fundamental:**
-- Computador clássico: bits (0 ou 1)
-- Computador quântico: qubits (0 E 1 simultaneamente)
-
-**Potencial:**
-- Fatoração de números gigantes (criptografia)
-- Simulação molecular (medicamentos)
-- Otimização complexa (logística, finanças)
-
-**Desafios:**
-- Temperatura próxima do zero absoluto (-273°C)
-- Erros quânticos (decoerência)
-- Apenas algumas centenas de qubits funcionais
-
----
 
 ## 📊 Comparação Impressão do Poder de Processamento
 
